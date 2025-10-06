@@ -1,4 +1,4 @@
-## Homeworks - Python Programming (HSE FCS DABM)
+## Homeworks - Python Programming (FCS HSE)
 
 **Репозиторий с решениями домашних заданий** по курсу "Программирование на Python" программы "Анализ данных в биологии и медицине" (АДБМ) Факультета компьютерных наук НИУ ВШЭ.
 
